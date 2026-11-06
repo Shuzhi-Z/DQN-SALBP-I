@@ -8,7 +8,4 @@ This repository presents a DQN-based approach for solving the Simple Assembly Li
 The benchmark instances are obtained from the Assembly Line Balancing repository:  
 https://assembly-line-balancing.de/salbp
 
-**Real-world Application:**  
-An automotive wiring harness assembly line is used to evaluate the practical performance of the proposed approach.
-
 The manuscript and source code will be made publicly available upon acceptance of the paper.
