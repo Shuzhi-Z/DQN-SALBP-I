@@ -11,4 +11,4 @@ https://assembly-line-balancing.de/salbp
 **Real-world Application:**  
 An automotive wiring harness assembly line is used to evaluate the practical performance of the proposed approach.
 
-The manuscript and source code will be released soon.
+The manuscript and source code will be made publicly available upon acceptance of the paper.
